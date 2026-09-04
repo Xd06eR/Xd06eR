@@ -8,4 +8,4 @@ I enjoy the process of exploring, iterating, and figuring things out as I go. No
 
 ## Things you can try
 
-- [aistudio-exporter](https://github.com/Xd06eR/aistudio-exporter) — convert Google AI Studio conversation exports into Markdown, XML, or HTML, ready to paste into any chatbot or agent. [Try it](https://aistudioexporter.vercel.app)
+- [aistudio-exporter](https://github.com/Xd06eR/aistudio-exporter) — convert Google AI Studio conversation exports into Markdown, XML, or HTML, ready to paste into any chatbot or agent to continue the work. [Try it](https://aistudioexporter.vercel.app)
